@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <comment>MemberRepository SQL</comment>
+
+    <entry key="insertMember">
+        INSERT INTO member_tbl (
+            name,
+            age,
+            phone
+        )
+        VALUES (
+            ?,
+            ?,
+            ?
+        )
+    </entry>
+
+    <entry key="selectMemberByPhone">
+        SELECT
+            member_id,
+            name,
+            age,
+            phone
+        FROM
+            member_tbl
+        WHERE
+            phone = ?
+    </entry>
+
+    <entry key="deleteMemberById">
+        DELETE FROM member_tbl
+        WHERE
+            member_id = ?
+    </entry>
+</properties>
