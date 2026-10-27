@@ -110,7 +110,7 @@ P1은 기본 사용 흐름, P2는 관리 기능 확장, P3는 조회 편의 기�
 - 구독 삭제 확인 및 결과:
 <img width="1316" height="190" alt="image" src="https://github.com/user-attachments/assets/903f491f-7922-4cba-acdc-e4924d40081a" />
 
-- 회원 탈퇴: [DB 제약 확인 후 캡처 필요]
+- 회원 탈퇴:
 <img width="678" height="405" alt="image" src="https://github.com/user-attachments/assets/2ceafdf8-45bc-420f-8bb7-062e6f2f6e7b" />
 
 ### 실행 방법
