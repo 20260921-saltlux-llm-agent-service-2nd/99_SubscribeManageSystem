@@ -110,13 +110,23 @@ P1은 기본 사용 흐름, P2는 관리 기능 확장, P3는 조회 편의 기�
 
 아래 위치에 실제 실행 이미지를 삽입합니다.
 
-- 시작 메뉴 및 회원가입: [캡처 추가 필요]
-- 로그인 및 현재 구독 목록: [캡처 추가 필요]
-- 구독 추가: [캡처 추가 필요]
-- 구독 연장 전후 만료일: [캡처 추가 필요]
-- 구독 삭제 확인 및 결과: [캡처 추가 필요]
-- OTT별 플랜 이력: [캡처 추가 필요]
+- 시작 메뉴 및 회원가입:
+<img width="606" height="398" alt="image" src="https://github.com/user-attachments/assets/a4f97d55-e2d4-437d-a123-45cea66c1708" />
+
+- 로그인 및 현재 구독 목록:
+<img width="606" height="326" alt="image" src="https://github.com/user-attachments/assets/fad2b8d1-c07f-4d23-8a69-10fdf297e799" />
+
+- 구독 추가: 
+<img width="606" height="398" alt="image" src="https://github.com/user-attachments/assets/ea3b031e-7e3a-43c7-a21c-9b2e2407cf86" />
+
+- 구독 연장 전후 만료일:
+<img width="1328" height="176" alt="image" src="https://github.com/user-attachments/assets/dea91f08-ac40-4398-a792-b287287a48e8" />
+
+- 구독 삭제 확인 및 결과:
+<img width="1316" height="190" alt="image" src="https://github.com/user-attachments/assets/903f491f-7922-4cba-acdc-e4924d40081a" />
+
 - 회원 탈퇴: [DB 제약 확인 후 캡처 필요]
+<img width="678" height="405" alt="image" src="https://github.com/user-attachments/assets/2ceafdf8-45bc-420f-8bb7-062e6f2f6e7b" />
 
 ### 실행 방법
 
